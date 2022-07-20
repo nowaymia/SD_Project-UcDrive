@@ -10,7 +10,7 @@ Consists in develop a platform(server) to store files from users(clients), using
 
 ## Technologies used:
 1. Java
-    - [Version ??](https://www.oracle.com/java/technologies/downloads/) 
+    - [Version 17](https://www.oracle.com/java/technologies/downloads/) 
 
 ## To run this project:
 [WARNING] Java must be installed<br>
